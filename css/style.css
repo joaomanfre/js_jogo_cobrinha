@@ -3,9 +3,11 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: antiquewhite;
+    font-family: inter, sans-serif;
 }
 
-#gamesnake{
-    width: 512px;
-    height: 512px;
+.pontuacao{
+    margin-top: -12px;
 }
+
